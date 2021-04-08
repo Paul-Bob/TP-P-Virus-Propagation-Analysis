@@ -1,0 +1,384 @@
+PauloPires1  23  S
+AnaLebre34A  55  I
+Tomas111   12   S
+PauloPires2   67    D   10
+LuisaSantos   40    D   3
+Zulmira2A    17 S
+PauloPires12  23  S
+AnaLebre34A2  55  I
+Tomas1112   12   S
+PauloPires22   67    D   10
+LuisaSantos2   40    D   3
+Zulmira2A2    17 S
+PauloPires15  23  S
+AnaLebre34A5  55  I
+Tomas1115   12   S
+PauloPires25   67    D   10
+LuisaSantos5   40    D   3
+Zulmira2A5    17 S
+PauloPires125  23  S
+AnaLebre34A25  55  I
+Tomas11125   12   S
+PauloPires225   67    D   10
+LuisaSantos25   40    D   3
+Zulmira2A25    17 S
+1PauloPires1  23  S
+A1naLebre34A  55  I
+To1mas111   12   S
+Pau1loPires2   67    D   10
+Luis1aSantos   40    D   3
+Zulmi1ra2A    17 S
+PauloP1ires12  23  S
+AnaLebr1e34A2  55  I
+Tomas11112   110   S
+PauloPire1s22   67    D   10
+LuisaSanto1s2   40    D   3
+Zulmira2A21    17 S
+1PauloPires15  23  S
+A1naLebre34A5  55  I
+To1mas1115   12   S
+Pau1loPires25   67    D   10
+Luis1aSantos5   40    D   3
+Zulmi1ra2A5    17 S
+PauloP1ires125  23  S
+AnaLebr1e34A25  55  I
+Tomas111125   12   S
+PauloPire1s225   67    D   10
+LuisaSanto1s25   40    D   3
+Zulmira2A215    17 S
+3PauloPires1  23  S
+3AnaLebre34A  55  I
+3Tomas111   12   S
+3PauloPires2   67    D   10
+3LuisaSantos   40    D   3
+3Zulmira2A    17 S
+3PauloPires12  23  S
+3AnaLebre34A2  98  I
+3Tomas1112   12   S
+3PauloPires22   67    D   10
+3LuisaSantos2   40    D   3
+3Zulmira2A2    17 S
+3PauloPires15  23  S
+3AnaLebre34A5  55  I
+3Tomas1115   12   S
+3PauloPires25   67    D   10
+3LuisaSantos5   40    D   3
+3Z3ulmira2A5    17 S
+3PauloPires125  23  S
+3AnaLebre34A25  105  D   12 
+3Tomas11125   12   S
+3PauloPires225   67    D   10
+3LuisaSantos25   40    D   3
+3Zulmira2A2551    17 S
+31PauloPires1  23  S
+3A1naLebre34A  55  I
+3To1mas111   12   S
+3Pau1loPires2   67    D   10
+3Luis1aSantos   40    D   3
+3Zulmi1ra2A    17 S
+3PauloP1ires12  23  S
+3AnaLebr1e34A2  55  I
+3Tomas11112   12   S
+3PauloPire1s22   67    D   10
+3LuisaSanto1s2   40    D   3
+3Zulmira2A21    17 S
+31PauloPires15  23  S
+3A1naaLebre34A5  55  I
+3To1mas1115   12   S
+3Pau1loPires25   67    D   10
+3Luis1aSantos5   40    D   3
+3Zulmi1ra2A5    17 S
+3PauloP1ires125  23  S
+3AnaLebr1e34A25  55  I
+3Tomas111125   12   S
+3PauloPire1s225   67    D   10
+3LuisaSanto1s25   1    D   3
+3Zulmira2A215    17 S
+4PauloPires1  23  S
+4AnaLebre34A  55  I
+4Tomas111   12   S
+4PauloPires2   67    D   10
+4LuisaSantos   40    D   3
+4Zulmira2A    17 S
+4PauloPires12  23  S
+4AnaLebre34A2  55  I
+4Tomas1112   12   S
+4PauloPires22   67    D   10
+4LuisaSantos2   40    D   3
+4Zulmira2A2    17 S
+4PauloPires15  23  S
+4AnaLebre34A5  55  I
+4Tomas1115   12   S
+4PauloPires25   67    D   10
+4LuisaSantos5   40    D   3
+4Zulmira2A5    17 S
+4PauloPires125  23  S
+4AnaLebre34A25  55  I
+4Tomas11125   12   S
+4PauloPires225   67    D   10
+4LuisaSantos25   40    D   3
+4Zulmira2A25    17 S
+414PauloPires1  23  S
+4A1naLebre34A  55  I
+4To1mas111   12   S
+4Pau1loPires2   67    D   10
+4Luis1aSantos   40    D   3
+4Zulmi1ra2A    17 S
+4PauloP1ires12  23  S
+4AnaLebr1e34A2  55  I
+4Tomas11112   12   S
+4PauloPire1s22   67    D   10
+4LuisaSanto1s2   40    D   3
+4Zulmira2A21    17 S
+41PauloPires15  23  S
+4A1naLebre34A5  55  I
+4To1mas1115   12   S
+4Pau1loPires25   67    D   10
+4Luis1aSantos5   40    D   3
+4Zulmi1rae2A5    17 S
+4PauloP1ires125  23  S
+4AnaLebr1e34A25  55  I
+4Tomas111125   12   S
+4PauloPire1s225   67    D   10
+4LuisaSanto1s25   40    D   3
+4Zulmira2A215    17 S
+43PauloPires1  23  S
+43AnaLebre34A  55  I
+43Tomas111   12   S
+43PauloPires2   67    D   10
+43LuisaSantos   40    D   3
+43Zulmira2A    17 S
+43PauloPires12  23  S
+43AnaLebre34A2  55  I
+43Tomas1112   12   S
+43PauloPires22   67    D   10
+43LuisaSantos2   40    D   3
+43Zulmira2A2    17 S
+43PauloPires15  23  S
+43AnaLebre34A5  55  I
+43Tomas1115   12   S
+43PauloPires25   67    D   10
+43LuisaSantos5   40    D   3
+43Z3ulmira2A5    17 S
+43PauloPires125  23  S
+43AnaLebre34A25  55  I
+43Tomas11125   12   S
+43PauloPires225   67    D   10
+43LuisaSantos25   40    D   3
+43Zulmira2A25    17 S
+431PauloPires1  23  S
+43A1naLebre34A  55  I
+43To1mas111   12   S
+43Pau1loPires2   67    D   10
+43Luis1aSantos   40    D   3
+43Zulmi1ra2A    17 S
+43PauloP1ires12  23  S
+43AnaLebr1e34A2  55  I
+43Tomas11112   12   S
+43PauloPire1s22   67    D   10
+43LuisaSanto1s2   40    D   3
+43Zulmira2A21    17 S
+431PauloPires15  23  S
+43A1naLebre34A5  55  I
+43To1mas1115   12   S
+43Pau1loPires25   67    D   10
+43Luis1aSantos5   40    D   3
+43Zulmi1ra2A5    17 S
+43PauloP1ires125  23  S
+43AnaLebr1e34A25  55  I
+43Tomas111125   12   S
+43PauloPire1s225   67    D   10
+43LuisaSanto1s25   40    D   3
+43Zulmira2A215    17 S
+5PauloPires1  23  S
+5AnaLebre34A  55  I
+5Tomas111   12   S
+5PauloPires2   67    D   10
+5LuisaSantos   40    D   3
+5Zulmira2A    17 S
+5PauloPires12  23  S
+5AnaLebre34A2  55  I
+5Tomas1112   12   S
+5PauloPires22   67    D   10
+5LuisaSantos2   40    D   3
+5Zulmira2A2    17 S
+5PauloPires15  23  S
+5AnaLebre34A5  55  I
+5Tomas1115   12   S
+5PauloPires25   67    D   10
+5LuisaSantos5   40    D   3
+5Zulmira2A5    17 S
+5PauloPires125  23  S
+5AnaLebre34A25  55  I
+5Tomas11125   12   S
+5PauloPires225   67    D   10
+5LuisaSantos25   40    D   3
+5Zulmira2A25    17 S
+15PauloPires1  23  S
+A15naLebre34A  55  I
+To15mas111   12   S
+Pau15loPires2   67    D   10
+Luis15aSantos   40    D   3
+Zulmi15ra2A    17 S
+PauloP15ires12  23  S
+AnaLebr15e34A2  55  I
+Tomas111152   12   S
+5PauloPire15s22   67    D   10
+L5uisaSanto1s2   40    D   3
+Zu5lmira2A21    17 S
+1Pa5uloPires15  23  S
+A1na5Lebre34A5  55  I
+To1ma5s1115   12   S
+Pau1lo5Pires25   67    D   10
+Luis1aS5antos5   40    D   3
+Zulmi1ra52A5    17 S
+PauloP1ir5es125  23  S
+AnaLebr1e354A25  55  I
+Tomas1111255   12   S
+PauloPire1s2525   67    D   10
+LuisaSanto1s255   40    D   3
+5Zulmira2A215    17 S
+35PauloPires1  23  S
+3A5naLebre34A  55  I
+3To5mas111   12   S
+3Pau5loPires2   67    D   10
+3Luis5aSantos   40    D   3
+3Zulmi5ra2A    17 S
+3PauloP5ires12  23  S
+3AnaLebr5e34A2  55  I
+3Tomas11152   12   S
+3PauloPire5s22   67    D   10
+3LuisaSanto5s2   40    D   3
+3Zulmira2A25   17 S
+53PauloPires15  23  S
+35AnaLebre34A5  55  I
+3T5omas1115   12   S
+3Pa5uloPires25   67    D   10
+3Lui5saSantos5   40    D   3
+3Z3ul5mira2A5    17 S
+3Paulo5Pires125  23  S
+3AnaLeb5re34A25  55  I
+3Tomas115125   12   S
+3PauloPir5es225   67    D   10
+3LuisaSant5os25   40    D   3
+3Zulmira2A255    17 S
+31PauloPires51  23  S
+3A1naLebre34A5  55  I
+53To1mas111   12   S
+35Pau1loPires2   67    D   10
+3L5uis1aSantos   40    D   3
+3Zu5lmi1ra2A    17 S
+3Pau5loP1ires12  23  S
+3AnaL5ebr1e34A2  55  I
+3Tomas511112   12   S
+3PauloP5ire1s22   67    D   10
+3LuisaSa5nto1s2   40    D   3
+3Zulmira25A21    17 S
+31PauloPir5es15  23  S
+3A1naLebre354A5  55  I
+3To1mas11155  12   S
+3Pau1loPi5res25   67    D   10
+53Luis1aSantos5   40    D   3
+35Zulmi1ra2A5    17 S
+3P5auloP1ires125  23  S
+3An5aLebr1e34A25  55  I
+3Tom5as111125   12   S
+3Paul5oPire1s225   67    D   10
+3Luisa5Santo1s25   40    D   3
+3Zulmir5a2A215    17 S
+4PauloPi5res1  23  S
+4AnaLebre534A  55  I
+4Tomas1155  12   S
+4PauloP5ires52   67    D   10
+4LuisaSa5ntos   40    D   3
+4Zulmira25A    17 S
+54PauloPires12  23  S
+45AnaLebre34A2  55  I
+4T5omas1112   12   S
+4Pa5uloPires22   67    D   10
+4Lui5saSantos2   40    D   3
+4Zulm5ira2A2    17 S
+4Paulo5Pires15  23  S
+4AnaLeb5re34A5  55  I
+4Tomas11515   12   S
+4PauloPir5es25   67    D   10
+4LuisaSant5os5   40    D   3
+4Zulmira2A55    17 S
+54PauloPires125  23  S
+45AnaLebre34A25  55  I
+4T5omas11125   12   S
+4Pa5uloPires225   67    D   10
+4Lui5saSantos25   40    D   3
+4Zulm5ira2A25    17 S
+414Pau5loPires1  23  S
+4A1naLe5bre34A  55  I
+4To1mas1511   12   S
+4Pau1loPi5res2   67    D   10
+4Luis1aSan5tos   40    D   3
+4Zulmi1ra2A5    17 S
+4PauloP1ir5es12  23  S
+4AnaLebr1e534A2  55  I
+4Tomas111152   12   S
+4PauloP5ire1s22   67    D   10
+4LuisaS5anto1s2   40    D   3
+4Zulmir5a2A21    17 S
+41Paulo5Pires15  23  S
+4A1naLe5bre34A5  55  I
+4To1mas51115   12   S
+4Pau1lo5Pires25   67    D   10
+4Luis1a5Santos5   40    D   3
+4Zulmi15ra2A5    17 S
+4PauloP51ires125  23  S
+4AnaLeb5r1e34A25  55  I
+4Tomas1511125   12   S
+4PauloP5ire1s225   67    D   10
+4LuisaSa5nto1s25   40    D   3
+4Zulmira52A215    17 S
+43PauloP5ires1  23  S
+43AnaLeb5re34A  55  I
+43Tomas1511   12   S
+43PauloP5ires2   67    D   10
+43LuisaS5antos   40    D   3
+43Zulmir5a2A    17 S
+43PauloP5ires12  23  S
+43AnaLeb5re34A2  55  I
+43Tomas15112   12   S
+43PauloP5ires22   67    D   10
+43LuisaS5antos2   40    D   3
+43Zulmir5a2A2    17 S
+43PauloP5ires15  23  S
+43AnaLeb5re34A5  55  I
+43Tomas15115   12   S
+43PauloP5ires25   67    D   10
+43LuisaS5antos5   40    D   3
+43Z3ulmi5ra2A5    17 S
+43PauloPi5res125  23  S
+43AnaLebr5e34A25  55  I
+43Tomas115125   12   S
+43PauloPi5res225   67    D   10
+43LuisaSa5ntos25   40    D   3
+43Zulmira52A25    17 S
+431PauloP5ires1  23  S
+43A1naLeb5re34A  55  I
+43To1mas1511   12   S
+43Pau1loP5ires2   67    D   10
+43Luis1aS5antos   40    D   3
+43Zulmi1r5a2A    17 S
+43PauloP15ires12  23  S
+43AnaLebr51e34A2  55  I
+43Tomas115112   12   S
+43PauloPi5re1s22   67    D   10
+43LuisaSa5nto1s2   40    D   3
+43Zulmira52A21    17 S
+431PauloP5ires15  23  S
+43A1naLebr55e34A5  55  I
+43To1mas11515   12   S
+43Pau1loPi5res25   67    D   10
+43Luis1aSa5ntos5   40    D   3
+43Zulmi1ra52A5    17 S
+43PauloP1i5res125  23  S
+43AnaLebr15e34A25  55  I
+43Tomas1115125   12   S
+43PauloPir5e1s225   67    D   10
+43LuisaSan5to1s25   40    D   3
+43Zulmira25A215    17 S
